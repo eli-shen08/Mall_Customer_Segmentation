@@ -3,7 +3,7 @@ Created clusters with features of people related to shopping mall .
 Also a cool 3D clustering cluster graph to see .
 I have also created a Cluster Recommendation Engine based on the provided data .
 
-I have used KMeans Clustering to tackle this problem where i ahev esed the elbow method to find th optimal number of clusters .
+I have used KMeans Clustering to tackle this problem where i have used the elbow method to find th optimal number of clusters .
 
 
 
